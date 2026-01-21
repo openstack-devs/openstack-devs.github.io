@@ -1,0 +1,11 @@
+baseURL = "https://openstack-devs.github.io/openstack-devs/"
+languageCode = "en-us"
+title = "My Hugo Blog"
+theme = "PaperMod"
+
+paginate = 10
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+
